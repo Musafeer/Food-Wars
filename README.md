@@ -1,2 +1,2 @@
 # shiny-potato
-For now, i'm a student who want to explore the wonderful things in technology
+My first game using phyton and using Object Oriented programming.
